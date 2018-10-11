@@ -1,1 +1,2 @@
 Here is how to create files on git hub.
+Now I have created a second branch and have edited the file. 
